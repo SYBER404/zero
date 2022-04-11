@@ -6,6 +6,5 @@ def make():
 	except:pass
 	try:os.mkdir("OK")
 	except:pass
-	Menu.menu()
-
+	exit(Menu.menu()
 make()
