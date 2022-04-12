@@ -15,7 +15,7 @@
  $ python -m pip install rich
  $ git clone https://github.com/Fall-Xavier/zero
  $ cd zero
- $ python install.py
+ $ cythonize -i zero.c
  $ python run.py
  ```
 #### CARA MENJALANKAN SCRIPT:
@@ -29,7 +29,7 @@
  ```
   $ cd zero
   $ git pull
-  $ python update.py
-  $ python install.py
+  $ rm -rf *.so
+  $ cythonize -i zero.c
   $ python run.py
  ```
