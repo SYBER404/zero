@@ -1,10 +1,5 @@
-import os,sys
-from src import menu as Menu
-
-def make():
-	try:os.mkdir("CP")
-	except:pass
-	try:os.mkdir("OK")
-	except:pass
-	exit(Menu.menu()
-make()
+if __name__ == "__main__":
+	try:
+		__import__("zero").make()
+	except Exception as e:
+		exit(str(e))
