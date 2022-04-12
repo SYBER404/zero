@@ -1,6 +1,8 @@
 #### CARA PEMBELIAN LISENSI
  kalian bisa langsung hubungi wa : 082329761867 atau bisa menggunakan link didalam script 
  
+#### GRATIS TRIAL SEHARI TIAP GMAIL
+ silahkan kalian bisa daftar ke https://fall-xavier.my.id/register/ untuk mendapatkan trial gratis satu hari untuk setiap 1 gmail
 
 #### CARA INSTALL SCRIPT:
  download aplikasi termux android di [disini](https://f-droid.org/repo/com.termux_118.apk)
